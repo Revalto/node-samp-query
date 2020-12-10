@@ -6,7 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Revalto/node-samp-query.git"
+  },
+  "keywords": [
+    "nodejs",
+    "samp",
+    "query",
+    "samp-query",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "Revalto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Revalto/node-samp-query/issues"
+  },
+  "homepage": "https://github.com/Revalto/node-samp-query#readme"
 }
